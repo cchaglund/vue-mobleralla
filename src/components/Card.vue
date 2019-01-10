@@ -22,7 +22,7 @@
 	#card {
 		width: 300px;
 		height: 300px;
-		display: flex;
+		
 		flex-direction: column;
 		background-color: blue;
 	}
