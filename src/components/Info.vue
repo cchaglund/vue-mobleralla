@@ -1,6 +1,6 @@
 <template>
 	<div class="info">
-		<p>Info</p>
+		<p>Pris, antall, etc.</p>
 	</div>
 </template>
 <script>
@@ -11,6 +11,6 @@
 <style>
 	.info{
 		width: 100%;
-		background-color: red;
+		background-color: gray;
 	}
 </style>

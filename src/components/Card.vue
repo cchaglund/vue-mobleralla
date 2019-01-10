@@ -22,8 +22,9 @@
 	#card {
 		width: 300px;
 		height: 300px;
-		
+		margin: 2rem;
+		border: 1px solid black;
 		flex-direction: column;
-		background-color: blue;
+		background-color: lightblue;
 	}
 </style>
