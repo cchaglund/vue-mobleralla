@@ -13,13 +13,17 @@
 	export default {
 		name: 'Card',
 		components: {
-			Bild
+			Bild, Title, Info
 		}
 	}
 </script>
 
 <style>
 	#card {
+		width: 300px;
+		height: 300px;
+		display: flex;
+		flex-direction: column;
 		background-color: blue;
 	}
 </style>

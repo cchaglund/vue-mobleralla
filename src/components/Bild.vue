@@ -6,7 +6,7 @@
 
 <script>
 	export default {
-		name: 'bild',
+		name: 'Bild'
 	}
 </script>
 
@@ -14,6 +14,6 @@
 	.bild {
 		background-color: red;
 		height: 50px;
-		width: 50px;
+		width: 100%;
 	}
 </style>
